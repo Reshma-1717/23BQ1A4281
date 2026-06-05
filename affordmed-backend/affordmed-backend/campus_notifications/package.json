@@ -1,0 +1,11 @@
+{
+  "name": "campus-notifications",
+  "version": "1.0.0",
+  "description": "Campus Notification Platform – All 6 Stages",
+  "scripts": {
+    "priority-inbox": "node priority_inbox/priority_inbox.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
